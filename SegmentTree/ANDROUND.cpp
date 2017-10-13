@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
-#define MAXN 60012
-#define ll long long
+#define MAXN 60012    //macro definition
+#define ll long long //macro definition
 using namespace std;
 
 ll int a[MAXN];
